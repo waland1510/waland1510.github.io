@@ -77,11 +77,11 @@ let resumeData = {
     },
     {
       "id":"4",
-      "skillname":"Photoshop"
+      "skillname":"Node"
     },
     {
       "id":"5",
-      "skillname":"Illustrator"
+      "skillname":"Python"
     }
   ],
   "portfolio":[
@@ -89,25 +89,25 @@ let resumeData = {
       "name":"Robofriends",
       "description":"React App",
       "imgurl":"images/portfolio/robofriends.png",
-      "appurl":"https://robofriends-redux-va.herokuapp.com/"
+      "appurl":"https://robofriends-redux-va.herokuapp.com"
     },
     { "id":"2",
       "name":"Youtube Search",
       "description":"React App",
       "imgurl":"images/portfolio/youtube-search.png",
-      "appurl":"https://triosdevelopers.com/~V.Andrushchak/youtube-search/"
+      "appurl":"https://triosdevelopers.com/~V.Andrushchak/youtube-searc"
     },
     { "id":"3",
       "name":"The Venue",
       "description":"React App",
       "imgurl":"images/portfolio/the-venue.png",
-      "appurl":"https://the-venue-va.herokuapp.com/"
+      "appurl":"https://the-venue-va.herokuapp.com"
     },
     { "id":"4",
       "name":"Exercise Tracker",
       "description":"ASP.NET",
       "imgurl":"images/portfolio/exercise-tracker.png",
-      "appurl":"http://trackerforproject.azurewebsites.net"
+      "appurl":"https://https://fathomless-taiga-21220.herokuapp.com"
     }
   ],
   "testimonials":[
