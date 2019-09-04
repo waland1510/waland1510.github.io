@@ -33,8 +33,8 @@ let resumeData = {
       "UniversityName":"Trios College",
       "specialization":"Enterprise Web and Mobile Development",
       "MonthOfPassing":" Expected Mar",
-      "YearOfPassing":"2020",
-      "Achievements":"Enterprise Web & Mobile Development with 7 certifications and proficiency in HTML, CSS, JAVA, JS, JQuery, PHP/MySQL, Linux/Apache, C#, ASP.NET, Photoshop and Illustrator"
+      "YearOfPassing":"2019",
+      "Achievements":"Enterprise Web & Mobile Development"
     },
     {
       "id":"2",
@@ -105,9 +105,9 @@ let resumeData = {
     },
     { "id":"4",
       "name":"Exercise Tracker",
-      "description":"ASP.NET",
-      "imgurl":"images/portfolio/exercise-tracker.png",
-      "appurl":"https://https://fathomless-taiga-21220.herokuapp.com"
+      "description":"React App",
+      "imgurl":"images/portfolio/devconnector.png",
+      "appurl":"https://fathomless-taiga-21220.herokuapp.com"
     }
   ],
   "testimonials":[
