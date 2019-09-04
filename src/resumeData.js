@@ -61,7 +61,7 @@ let resumeData = {
       "Achievements":"Some Achievements"
     }
   ],
-  "skillsDescription":"Your skills here",
+  "skillsDescription":"Experience",
   "skills":[
     {
       "id":"1",
