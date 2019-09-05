@@ -32,15 +32,15 @@ let resumeData = {
       "id":"1",
       "UniversityName":"Trios College",
       "specialization":"Enterprise Web and Mobile Development",
-      "MonthOfPassing":" Expected Mar",
+      "MonthOfPassing":"2018 - ",
       "YearOfPassing":"2019",
-      "Achievements":"Enterprise Web & Mobile Development"
+      "Achievements":""
     },
     {
       "id":"2",
       "UniversityName":"Steinbeis University Berlin",
       "specialization":"Master of Business Administration",
-      "MonthOfPassing":"2010 -",
+      "MonthOfPassing":"2010 - ",
       "YearOfPassing":"2012",
       "Achievements":""
     }
@@ -61,7 +61,7 @@ let resumeData = {
       "Achievements":"Some Achievements"
     }
   ],
-  "skillsDescription":"Experience",
+  "skillsDescription":"",
   "skills":[
     {
       "id":"1",
@@ -104,7 +104,7 @@ let resumeData = {
       "appurl":"https://the-venue-va.herokuapp.com"
     },
     { "id":"4",
-      "name":"Exercise Tracker",
+      "name":"DevConnector",
       "description":"React App",
       "imgurl":"images/portfolio/devconnector.png",
       "appurl":"https://fathomless-taiga-21220.herokuapp.com"
