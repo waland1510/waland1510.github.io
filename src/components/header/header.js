@@ -3,17 +3,6 @@ import Typed from "react-typed";
 export default class Header extends Component {
   render() {
     let resumeData = this.props.resumeData;
-
-    // let typed_title = document.querySelector("#typed_title");
-    // let typed = new Typed(typed_title, {
-    //   strings: [resumeData.name],
-    //   typeSpeed: 40,
-    //   backSpeed: 50,
-    //   loop: true,
-    //   backDelay: 1200,
-    //   fadeOut: true,
-    //   smartBackspace: false
-    // });
     return (
       <React.Fragment>
         {/*generated code*/}
@@ -65,14 +54,14 @@ export default class Header extends Component {
               <h1 className="responsive-headline">
                 <Typed strings={[resumeData.name]} typeSpeed={40} />
               </h1>
-              <h2><span id="typed">
+              <h2>
                 <Typed
                   strings={["Development", "Debugging", "Deployment"]}
                   typeSpeed={90}
                   backSpeed={50}
                   loop
                 ></Typed>
-              </span></h2>
+              </h2>
               <h3>
                 {" "}
                 {resumeData.role}.{resumeData.roleDescription}
