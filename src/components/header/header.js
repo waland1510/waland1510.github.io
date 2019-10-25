@@ -54,9 +54,9 @@ export default class Header extends Component {
               <h1 className="responsive-headline">
                 <Typed strings={[resumeData.name]} typeSpeed={40} />
               </h1>
-              <h2>
+              <h2 className="responsive-headline">
                 <Typed
-                  strings={["Development", "Debugging", "Deployment"]}
+                  strings={["Developing", "Debugging", "Deploying"]}
                   typeSpeed={90}
                   backSpeed={50}
                   loop
