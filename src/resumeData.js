@@ -98,7 +98,7 @@ let resumeData = {
       name: "Youtube Search",
       description: "React App",
       imgurl: "images/portfolio/youtube-search.png",
-      appurl: "https://triosdevelopers.com/~V.Andrushchak/youtube-searc"
+      appurl: "https://triosdevelopers.com/~V.Andrushchak/youtube-search"
     },
     {
       id: "3",
